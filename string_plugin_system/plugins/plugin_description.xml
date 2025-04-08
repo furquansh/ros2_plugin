@@ -1,0 +1,15 @@
+<library path="reverse_plugin">
+  <class name="string_plugin_system::ReversePlugin"
+         type="string_plugin_system::ReversePlugin"
+         base_class_type="string_plugin_system::StringPluginBase">
+    <description>Reverses the input string.</description>
+  </class>
+</library>
+
+<library path="length_plugin">
+  <class name="string_plugin_system::LengthPlugin"
+         type="string_plugin_system::LengthPlugin"
+         base_class_type="string_plugin_system::StringPluginBase">
+    <description>Returns the length of the input string.</description>
+  </class>
+</library>
