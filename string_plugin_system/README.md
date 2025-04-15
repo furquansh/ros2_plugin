@@ -11,3 +11,5 @@ A basic plugin-based system in C++ that uses ROS 2 Humble and create two plugins
 ▶️ CLick above to watch the video on youtube
 
 <img src="assets/helllo.png" width="500"/> <img src="assets/not.png" width="500"/>
+
+  Above are screenshots of the two plugins in action 
